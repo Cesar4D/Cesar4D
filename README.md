@@ -1,4 +1,4 @@
-### 👋 Olá eu sou César Cardoso
+### 👋 Hello, I am César Cardoso
 
 <p align="left">
   <a href="https://t.me/Code4Delphi" target="_blank">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-### 🔗 <a href="https://github.com/Code4Delphi">Acesse a organização da Code4Delphi</a>
+### 🔗 <a href="https://github.com/Code4Delphi">Access the Code4Delphi organization</a>
 
 <p align="left">
   <a href="https://github.com/Code4Delphi">
